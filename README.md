@@ -1,0 +1,1 @@
+This repository contains a TypeScript bug report and its solution. The bug demonstrates a common type error where a string value is passed to a function expecting a number.  The solution shows how to properly type-check and handle potential type mismatches.
